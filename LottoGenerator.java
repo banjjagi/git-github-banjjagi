@@ -13,4 +13,5 @@ return result;
        public static void main(String[] args) {
                int[] result = new LottoGenerator().generate();
                System.out.println(Arrays.toString(result));
+
 } }
